@@ -1,6 +1,4 @@
-# dietChartGenerator
-Deep Learning Final Project
-
+# FitFuel-AI-Diet-App
 Doc Link: https://docs.google.com/document/d/1bN4nzD3LRyAuY305WRv_w-5LNVFiPYjsPIJqBMg8KsQ/edit?tab=t.0
 
 DataBase Credentials:
@@ -9,9 +7,9 @@ Supabase: https://supabase.com/dashboard/project/abqyqefaacrthzeksogg
 
 Tables: users
 
-# 🥗 dietChartGenerator
+# 🥗 FitFuel-AI-Diet-App
 
-This project is the final submission for the **Deep Learning course**. It is a complete pipeline for generating **personalized diet charts** using a fine-tuned DistilGPT model trained on a custom diet dataset. The application takes into account individual user profiles including health conditions, preferences, and goals to generate tailored diet recommendations.
+It is a complete pipeline for generating **personalized diet charts** using a fine-tuned DistilGPT model trained on a custom diet dataset. The application takes into account individual user profiles including health conditions, preferences, and goals to generate tailored diet recommendations.
 
 ---
 
